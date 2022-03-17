@@ -23,5 +23,6 @@ The main languages I use are:
 - CSS
 - Type Script
 - C/C+
+- OCaml
 
 I can be contacted via discord: galaxy#3903.
