@@ -25,4 +25,4 @@ The main languages I use are:
 - C/C+
 - OCaml
 
-I can be contacted via discord: galaxy#3903.
+I can be contacted via discord: ga1a_xy
